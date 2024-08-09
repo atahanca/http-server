@@ -1,6 +1,6 @@
 # http-server
 
-This repository contains an example of how to create a simple HTTP server using Java's `ServerSocket`. The server listens for HTTP requests and responds with a basic HTML page.
+This repository contains a simple HTTP server using Java's `ServerSocket`. The server listens for HTTP requests and responds with a basic HTML page. The response is the current date, and time, of your request.
 
 ## Introduction
 
