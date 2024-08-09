@@ -2,16 +2,6 @@
 
 This repository contains an example of how to create a simple HTTP server using Java's `ServerSocket`. The server listens for HTTP requests and responds with a basic HTML page.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project demonstrates the creation of a basic HTTP server in Java. It is based on the tutorial from the [javarevisited blog](https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html). The server can handle simple HTTP GET requests and respond with a static HTML page.
