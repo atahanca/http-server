@@ -21,10 +21,6 @@ This project demonstrates the creation of a basic HTTP server in Java. It is bas
 
 To get started with this project, follow these steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/atahanca/http-server.git
-   cd http-server
-   ```
+1. **Download the repository**
 2. **Compile the code in your IDE**
 3. **Call http://localhost:8080 from your browser**
